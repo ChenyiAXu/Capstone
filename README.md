@@ -1,7 +1,7 @@
 
 
 # TEEOTA
-a TEE based project to achieve something. For collaboration on our Capstone project.
+a TEE based capstone project completed by a group of four engineering students at McGill University 
 
 
 ## <b> How to use the AWS Cloud OTA ? </b> 
